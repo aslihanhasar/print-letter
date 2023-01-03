@@ -1,6 +1,6 @@
 # Letter printng
 
-### This program print stars as letter A and letter B.
+### This program prints stars as letter A and letter B.
 
 ---
 
